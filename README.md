@@ -39,3 +39,9 @@ Switch Trigger
 
 isSkipRestart trueであれば実行中に再度Runが呼ばれた時初期化を無視する
 
+#使用ライブラリ
+UniRx
+https://github.com/neuecc/UniRx
+Copyright (c) 2014 Yoshifumi Kawai
+
+
